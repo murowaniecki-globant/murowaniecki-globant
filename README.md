@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @murowaniecki-globant;
+- 👀 I’m interested in **High Performing Systems**;
+- 🌱 I’m currently learning Mandarin, Japanease and Rust;
+- 📫 Reach me on Slack **joao.murowaniecki**;
+- This is a private profile for Globant projects. If you need to contact me outside please see @jmurowaniecki profile.
